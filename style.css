@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.reservado{
+    padding-top: 4rem ;
+    padding-bottom: 1rem;
+    font-size: 1rem;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    text-align: center;
+    background: transparent;
+    height: fit-content;
+    width: 300px;
+    border-radius: 5rem;
+    line-height: 0.5;
+    gap: 20px;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+}
+
+
+.letra{
+    font-size: 7rem;
+}
+
+.a{
+    background: #233f61;
+    /* anil */
+}
+
+.b{
+    background: #900020; 
+    /* borgonha */
+}
+.c{
+    background: #00FFFF;
+    /* ciano */
+}
+.d{
+    background: #daa520;
+    /* dourado */
+}
+.e{
+    background: #6c704e;
+    /* eucalipto */
+}
+.f{
+    background: #aa5a24;
+    /* ferrugem */
+}
+.g{
+    background:#be5b59 ;
+    /* goiaba */
+}
+.h{
+    background: #80a358;
+    /* hortelã */
+}
+.i{
+    background: #3d415f;
+    /* indigo blue */
+}
+.j{
+    background:#00a86b ;
+    /* jade */
+}   
+.k{
+    background: #f0e68c;
+    /* khaki */
+}
+.l{
+    background:#c8a2c8 ;
+    /* lilas */
+}
+.m{
+    background:#6c6490 ;
+    /* mirtilo */
+}
+.n{
+    background: #FFFafa;
+    /* neve */
+}
+.o{
+    background: #cc7722;
+    /* ocre */
+}
+.p{
+    background: #eabda3;
+    /* pêssego */
+}
+.q{
+    background: #ac7175;
+    /* Quartz */
+}
+.r{
+    background: #ff007f;
+    /* rosa */
+}
+.s{
+    background: #ff8247;
+    /* siena */
+}
+.t{
+    background: #81d8d0;
+    /* turquesa */
+}
+.u{
+    background:#CAF0F1 ;
+    /* urano */
+}
+.v{
+    background: #9400d3;
+    /* violeta */
+}
+.x{
+    background: #eeed09;
+    /* xanthic */
+}
+.w{
+    background: #967de3;
+    /* wisteria */
+}
+.y{
+    background: #0f4d92;
+    /* Yale blue */
+}
+.z{
+    background: #0014a8;
+    /* Zaffre */
+}

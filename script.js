@@ -141,13 +141,13 @@ function mudarCorDoBg(event){
         case 'w':
             document.body.setAttribute('class', 'w')
             tecla.innerHTML = 'W'
-            nomeCor.innerHTML ='Xanthic'
+            nomeCor.innerHTML ='Wisteria'
             hex.innerHTML ='#967de3'
             break
         case 'x':
             document.body.setAttribute('class', 'x')
             tecla.innerHTML = 'X'
-            nomeCor.innerHTML ='Wisteria'
+            nomeCor.innerHTML ='Xanthic'
             hex.innerHTML ='#eeed09'
             break
         case 'y':

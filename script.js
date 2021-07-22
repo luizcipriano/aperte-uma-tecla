@@ -69,8 +69,8 @@ function mudarCorDoBg(event){
         case 'k':    
             document.body.setAttribute('class', 'k')
             tecla.innerHTML = 'K'
-            nomeCor.innerHTML = 'Khaki'
-            hex.innerHTML ='#f0e68c'
+            nomeCor.innerHTML = 'kiwi'
+            hex.innerHTML ='#8ee53f'
             break
         case 'l': 
             document.body.setAttribute('class', 'l')
